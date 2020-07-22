@@ -1,2 +1,2 @@
 # Consumer_Segmentation_Model
-A PySpark demonstration of consumer segmentation model via kMeans and Gaussian Mixture Models
+A PySpark demonstration of consumer segmentation model via kMeans, NMF and Gaussian Mixture Models
